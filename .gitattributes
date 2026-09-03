@@ -5,3 +5,6 @@
 /**         export-ignore
 /addons    !export-ignore
 /addons/** !export-ignore
+
+# Include the license for the Godot Asset Store
+/LICENSE   !export-ignore
